@@ -54,7 +54,6 @@ fs.readdir(process.cwd(), function (err, files) {
 				});
 				console.log('');
 			});
-			stdout.write('    \033[31mEnter your choice: \033[39m');
 		}
 		else {
 			stdin.pause();
