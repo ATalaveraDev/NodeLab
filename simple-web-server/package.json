@@ -1,0 +1,5 @@
+{
+	"name": "simple-http",
+	"description": "HTTP server for deliver a simple form",
+	"version": "0.0.1"
+}
